@@ -1,12 +1,12 @@
 @font-face {
-font-family:"lamarounded";
+font-family: "lamarounded";
 font-style: normal;
 src: url(lamarounded) format("ttf");
 font-display: auto;
 }
 
 @font-face {
-font-family:"lamarounded";
+font-family: "lamarounded";
 font-style: normal;
 font-weight: 700;
 src: url(lamarounded) format("truetype");
@@ -16,7 +16,7 @@ U+FEFF, U+FFFD;
 }
 
 body {
-font-family:"lamarounded", cursive;
+font-family: "lamarounded", cursive;
 text-align: center;
 }
 
